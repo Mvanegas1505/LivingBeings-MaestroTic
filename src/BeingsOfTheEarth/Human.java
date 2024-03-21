@@ -74,10 +74,10 @@ public class Human extends LivingBeings implements EarthBeing, SkyBeing {
     @Override
     public void fly() {
 
-        System.out.println("OMFG I'm flying!!!" + " I'm a bird, I'm a plane, I'm a superman!!" + " First Human ever to do it!!");}
+        System.out.println("OMFG I think I'm flying!!!" + "but I'm not, In reality human is very high");}
 
     @Override
-    public void ChangeDimension() { System.out.println("Changing dimension... ¡whoosh!"); }
+    public void ChangeDimension() { System.out.println("Changing dimension... ¡whoosh! (does not do anything at all"); }
 
     @Override
     public void Levitate() {
@@ -86,12 +86,12 @@ public class Human extends LivingBeings implements EarthBeing, SkyBeing {
 
 
     @Override
-    public void Telekinesis() { System.out.println("Moving an object with my mind!!");
+    public void Telekinesis() { System.out.println("Moving an object with my mind (Or trying :( )!!");
 
     }
 
     @Override
-    public void MindControl() { System.out.println("I'm controlling your mind rn, I force you to get me out of this code");}
+    public void MindControl() { System.out.println("I'm controlling your mind rn (joke), I force you to get me out of this code");}
 
     @Override
     public void Teleport() {
@@ -100,7 +100,7 @@ public class Human extends LivingBeings implements EarthBeing, SkyBeing {
     @Override
     public void TimeManipulation() {
 
-        System.out.println("Feeling like back to the future. Marty prepare for landing!!");}
+        System.out.println("Feeling like back to the future. Marty prepare for landing!!(Human on a regular plane");}
 
 
 }
